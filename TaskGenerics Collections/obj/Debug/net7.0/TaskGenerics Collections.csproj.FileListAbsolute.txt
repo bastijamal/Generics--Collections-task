@@ -1,0 +1,5 @@
+/Users/besticamalova/Projects/TaskGenerics Collections/TaskGenerics Collections/obj/Debug/net7.0/TaskGenerics Collections.csproj.AssemblyReference.cache
+/Users/besticamalova/Projects/TaskGenerics Collections/TaskGenerics Collections/obj/Debug/net7.0/TaskGenerics Collections.GeneratedMSBuildEditorConfig.editorconfig
+/Users/besticamalova/Projects/TaskGenerics Collections/TaskGenerics Collections/obj/Debug/net7.0/TaskGenerics Collections.AssemblyInfoInputs.cache
+/Users/besticamalova/Projects/TaskGenerics Collections/TaskGenerics Collections/obj/Debug/net7.0/TaskGenerics Collections.AssemblyInfo.cs
+/Users/besticamalova/Projects/TaskGenerics Collections/TaskGenerics Collections/obj/Debug/net7.0/TaskGenerics Collections.csproj.CoreCompileInputs.cache
